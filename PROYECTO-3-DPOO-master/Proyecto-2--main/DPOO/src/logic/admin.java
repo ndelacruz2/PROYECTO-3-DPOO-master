@@ -1,8 +1,6 @@
 package logic;
 import entities.Galeria;
 import entities.Pieza;
-import logic.Comprador;
-
 import java.util.Hashtable;
 import java.util.List;
 
